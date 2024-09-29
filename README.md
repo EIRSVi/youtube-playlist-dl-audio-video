@@ -48,8 +48,9 @@ pip install yt-dlp colorama pyfiglet
 <p>1. Clone this repository:</p>
 
 ```bash
-git clone https://github.com/eirsvi/youtube-playlist-downloader.git
-cd youtube-playlist-downloader
+git clone git@github.com:EIRSVi/youtube-playlist-dl-audio-video.git
+
+cd youtube-playlist-dl-audio-video
 ```
 
 <p>2. Run the script:</p>
