@@ -1,6 +1,6 @@
 Here’s the updated GitHub README with all header lines aligned to the center and reflecting the script name `ytdl.py`:
 
-```markdown
+
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,kali,windows,powershell" />
@@ -66,7 +66,7 @@ To download a YouTube playlist, you can enter a URL such as:
 </p>
 
 <p align="center">
-====> EXAMPLE PLAYLIST URL: https://www.youtube.com/playlist?list=PLXYZ123
+ EXAMPLE PLAYLIST URL: https://www.youtube.com/playlist?list=PLXYZ123
 </p>
 
 <p align="center">
