@@ -35,7 +35,7 @@ The YouTube Playlist Downloader is a tool designed to make downloading YouTube p
   <li><a href="https://ffmpeg.org/download.html">FFmpeg</a> for audio conversion.</li>
 </ul>
 
-<p align="center">To install the necessary Python libraries, run:</p>
+<p>To install the necessary Python libraries, run:</p>
 
 ```bash
 pip install yt-dlp colorama pyfiglet
@@ -74,7 +74,7 @@ You'll be prompted to choose between downloading either the video or the audio-o
 
 <h2 align="center">Troubleshooting</h2>
 
-<p align="center">
+<p>
 If you encounter any issues while downloading, check the following:
 </p>
 
@@ -86,19 +86,18 @@ If you encounter any issues while downloading, check the following:
 
 <h2 align="center">License</h2>
 
-<p align="center">
+<p>
 This project is open-source and available under the MIT License.
 </p>
 
 <h2 align="center">Credits</h2>
 
-<p align="center">
+<p>
 Support us: <a href="https://github.com/eirsvi/">@eirsvi</a>
 </p>
 
-<p align="center">
+<p>
 Feel free to reach out if you have any questions or feedback!
 </p>
-```
 
 This version aligns all the header text and key elements to the center. Let me know if you need further adjustments!
