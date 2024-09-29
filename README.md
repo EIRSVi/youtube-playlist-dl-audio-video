@@ -10,13 +10,13 @@
 
 <h2 align="center">Summary</h2>
 
-<p align="center">
+<p>
 The YouTube Playlist Downloader is a tool designed to make downloading YouTube playlists easy and efficient. It allows users to download either video or audio-only formats from entire playlists, storing them neatly in organized folders on your system.
 </p>
 
 <h2 align="center">Features</h2>
 
-<ul align="center">
+<ul>
   <li>Download entire YouTube playlists.</li>
   <li>Choose between video-only or audio-only downloads.</li>
   <li>Files are automatically organized into dedicated folders for videos or audios.</li>
@@ -25,9 +25,9 @@ The YouTube Playlist Downloader is a tool designed to make downloading YouTube p
 
 <h2 align="center">Prerequisites</h2>
 
-<p align="center">Ensure the following dependencies are installed on your system:</p>
+<p>Ensure the following dependencies are installed on your system:</p>
 
-<ul align="center">
+<ul>
   <li><a href="https://www.python.org/downloads/">Python 3.x</a></li>
   <li><a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a> for handling YouTube downloads.</li>
   <li><a href="https://pypi.org/project/colorama/">Colorama</a> for terminal colors.</li>
@@ -41,18 +41,18 @@ The YouTube Playlist Downloader is a tool designed to make downloading YouTube p
 pip install yt-dlp colorama pyfiglet
 ```
 
-<p align="center">Make sure FFmpeg is installed and properly configured on your system.</p>
+<p>Make sure FFmpeg is installed and properly configured on your system.</p>
 
-<h2 align="center">Installation</h2>
+<h2>Installation</h2>
 
-<p align="center">1. Clone this repository:</p>
+<p>1. Clone this repository:</p>
 
 ```bash
 git clone https://github.com/eirsvi/youtube-playlist-downloader.git
 cd youtube-playlist-downloader
 ```
 
-<p align="center">2. Run the script:</p>
+<p>2. Run the script:</p>
 
 ```bash
 python ytdl.py
@@ -60,15 +60,15 @@ python ytdl.py
 
 <h2 align="center">Example</h2>
 
-<p align="center">
+<p>
 To download a YouTube playlist, you can enter a URL such as:
 </p>
 
-<p align="center">
+<p>
  EXAMPLE PLAYLIST URL: https://www.youtube.com/playlist?list=PLXYZ123
 </p>
 
-<p align="center">
+<p>
 You'll be prompted to choose between downloading either the video or the audio-only version.
 </p>
 
@@ -78,7 +78,7 @@ You'll be prompted to choose between downloading either the video or the audio-o
 If you encounter any issues while downloading, check the following:
 </p>
 
-<ul align="center">
+<ul>
   <li>Ensure yt-dlp and FFmpeg are installed correctly.</li>
   <li>Verify that the YouTube playlist URL is correct.</li>
   <li>Ensure proper permissions for the download directory.</li>
