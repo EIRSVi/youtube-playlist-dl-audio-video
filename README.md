@@ -1,4 +1,3 @@
-Here’s the updated GitHub README with all header lines aligned to the center and reflecting the script name `ytdl.py`:
 
 
 <p align="center">
